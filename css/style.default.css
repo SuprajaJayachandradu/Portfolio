@@ -50,6 +50,9 @@ h4.heading:after {
   margin: 10px auto 20px;
   height: 1px;
 }
+h5.heading:after {
+  height: 1px;
+}
 .img-responsive {
   margin: 0 auto;
 }
@@ -176,7 +179,7 @@ SERVICES
 */
 .box-services {
   padding: 40px 20px 20px;
-  border-bottom: 1px solid #d4d4d4;
+  /* border-bottom: 1px solid #d4d4d4; */
   background: #fff;
 }
 .box-services .icon {
@@ -200,7 +203,7 @@ INTERESTS
   position: relative;
   float: left;
   width: 290px;
-  height: 220px;
+  height: 192px;
   background-color: transparent;
   box-sizing: border-box; 
 }
