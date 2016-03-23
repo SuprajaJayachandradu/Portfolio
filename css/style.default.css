@@ -59,9 +59,9 @@ h5.heading:after {
 .box {
   margin-bottom: 30px;
 }
-.no-space .box {
+/*.no-space .box {
   margin: 0 -15px;
-}
+}*/
 .margin-bottom {
   margin-bottom: 30px;
 }
@@ -201,11 +201,12 @@ INTERESTS
 */
 .box {
   position: relative;
-  float: left;
+  margin: 0 auto;
   width: 290px;
   height: 192px;
   background-color: transparent;
   box-sizing: border-box; 
+  display: block;
 }
 /*
 
