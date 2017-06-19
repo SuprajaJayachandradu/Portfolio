@@ -1,14 +1,3 @@
-################################################################################################
-
-Documentation for Agency Theme by Bootstrapious - http://bootstrapious.com, rel. 2015/04/10
-
-################################################################################################
-
-Hi,
-
-thank you for downloading. Have fun and tell your friends about us ;)
-
-Ondrej from Bootstrapious
 
 
 CSS
@@ -21,27 +10,9 @@ Javascript
 
 Apart from Bootstrap JS components majority of JS is located in /js/front.js. If you want to make any js settings finetuning, you can do it here.
 
-Credits
----------
 
 - Botstrap 3.3.2
 - Font Awesome 4.3.0
 - Google Fonts - Roboto Condensed and Open Sans
 - Heisengberg Media - intro photo
 
-
----------------------
- LICENCE CONDITIONS
----------------------
-
-You are completely free to use this template for your personal use or as a work for your client as long as you keep the link at the template footer pointing to us and our partner.
-
-However you cannot redistribute the template as a template or theme itself - neither for free or commercially (i.e. selling it on template marketplace).
-
-Thank you for understanding and respecting the licence conditions.
-
----------------------
- GET IN TOUCH ;)
----------------------
-
-https://twitter.com/bootstrapious | https://google.com/+Bootstrapious1 | https://www.facebook.com/bootstrapious | hello@bootstrapious.com
